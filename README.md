@@ -19,6 +19,7 @@ Virgil Dobjanschi's Android restful pattern: http://www.codeproject.com/Articles
 __Advanced:__
 
 Cyril Mottier blog: http://cyrilmottier.com/  
+Guava: https://code.google.com/p/guava-libraries/  
 Robospice: https://github.com/octo-online/robospice  
 Roboguice: https://github.com/roboguice/roboguice  
 Roboelectric: https://github.com/robolectric/robolectric  
