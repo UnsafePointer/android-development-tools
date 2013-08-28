@@ -11,7 +11,7 @@ Android development training (Getting Started): http://developer.android.com/tra
 
 __Intermediate:__
 
-> Moving forward to an begginer/intermediate level, I highly reccomend Lars Vogel blog. All basic concepts are explained with clear code examples. Then you should explore third party frameworks that help you to get over the much hated Android fragmentation, the ones I recommend are Android Support Library by Google, ActionBarSherlock and ViewPagerIndicator by Jake Wharton. Another recommended lecture would be Best Practices for User Experience & UI, which has very nice examples of how to implement the most common Android UI patterns. Finally, starting with more intermediate/advanced stuff you should read Virgil Dobjanschi's Android restful pattern implementation, as this is the way that your application should be using web services, networking and so.
+> Moving forward to an begginer/intermediate level, I highly recommend Lars Vogel blog. All basic concepts are explained with clear code examples. Then you should explore third party frameworks that help you to get over the much hated Android fragmentation, the ones I recommend are Android Support Library by Google, ActionBarSherlock and ViewPagerIndicator by Jake Wharton. Another recommended lecture would be Best Practices for User Experience & UI, which has very nice examples of how to implement the most common Android UI patterns. Finally, starting with more intermediate/advanced stuff you should read Virgil Dobjanschi's Android restful pattern implementation, as this is the way that your application should be using web services, networking and so.
 
 Lars Vogel blog: http://www.vogella.com/android.html  
 Android Support Library: http://developer.android.com/tools/support-library/index.html  
