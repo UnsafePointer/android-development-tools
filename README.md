@@ -5,7 +5,7 @@ __Getting started:__
 
 > First, install the Android SDK (I recommend to start fresh with Android Studio, even if it's still on developer preview). Probably the first reading you should be doing is design guide, even if you're not a designer. It contains the main user interface patterns that your applications should follow. Once you get all the basics of Android user experience, you can start coding with the tutorials provided by the Getting Started section of Android Development Training.
 
-Android SDK download page: http://developer.android.com/sdk/index.html  
+Android Studio download page: http://developer.android.com/sdk/installing/studio.html  
 Android development design guide: http://developer.android.com/design/index.html  
 Android development training (Getting Started): http://developer.android.com/training/index.html  
 
